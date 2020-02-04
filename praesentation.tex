@@ -1,5 +1,5 @@
 \documentclass[hyperref={pdfpagelabels=false}]{beamer}
-\include{vorspann}
+\input{vorspann.tex}
 
 \begin{document}
 \begin{frame}
@@ -9,21 +9,25 @@
 \section{Was ist das?} 
 \begin{frame}
 \frametitle {Was ist das?}
+\begin{figure}
+\includegraphics[scale=.2]{HD.png}
+\centering
+\end{figure}
 \end{frame}
-
-
 
 \section{Pro und Kontra} 
 \subsection{Darstellung, Aufbau und Risiken}
 
-
 \begin{frame}
 \frametitle{Vor und Nachteile}
-\begin{itemize}[<+->]
-\item  
-\item  
-\item  
-\end{itemize} 
+
+\begin{tabular}{c|c}
+Vorteile & Nachteile\\
+\hline
+Einfach & Unflexibel\\
+Einfacher Zugriff auf zusammenhängende Strukturen & 
+\end{tabular}
+
 \end{frame}
 
 \section{Beispiele} 
@@ -38,4 +42,5 @@
 \item $https://www.softguide.de/software-tipps/hierarische-datenbanken$
 \end{enumerate}
 \end{frame}
+
 \end{document}
