@@ -1,5 +1,5 @@
 # Hierarchische Datenbanken
-* Datenbank mit Hierarchy
+* Datenbank mit Hierarchie
 * Jedes Element hat einen Überelement (Parent)
 * Jedes Element kann unter Elemente besitzen (Children)
 * Wird oft als umgekehrter Baum dargestellt
@@ -7,13 +7,13 @@
 ## Vor und Nachteile
 
 ### Vorteile
-* Einfach
-* Einfacher zugriff auf zusammenhängende strukturen
-* Schneller Zugriff bei Festen Suchpfaden
+* Es ist einfach zu verstehen, da es hierarchische structuren aus der echten Welt gut darstellen kann
+* Einfacher Zugriff auf zusammenhängende strukturen, da die Struktur an sich sehr einfach ist.
+* Schneller Zugriff bei bekannten Pfaden, da die Zugriffsstruktur bekannt ist.
 
 ### Nachteile
-* unflexibel
-* zugriff nur durch die Hierarchie
+* Unflexibel, da die Struktur behalten werden muss
+* Zugriff nur durch die Hierarchie möglich
 * Keine bidirektionalen Beziehungen
 
 ## Beispiele
