@@ -7,8 +7,8 @@
 ## Vor und Nachteile
 
 ### Vorteile
-* Es ist einfach zu verstehen, da es hierarchische structuren aus der echten Welt gut darstellen kann
-* Einfacher Zugriff auf zusammenhängende strukturen, da die Struktur an sich sehr einfach ist.
+* Es ist einfach zu verstehen, da es hierarchische Strukturen aus der echten Welt gut abbilden kann
+* Einfacher Zugriff auf zusammenhängende Strukturen, da die Struktur an sich sehr einfach ist.
 * Schneller Zugriff bei bekannten Pfaden, da die Zugriffsstruktur bekannt ist.
 
 ### Nachteile
@@ -17,8 +17,4 @@
 * Keine bidirektionalen Beziehungen
 
 ## Beispiele
-* Deutschland (Root node, Start element)
-  * Bundesländer (e.g. Baden-Württemberg, Bayern, Hessen)
-    * Regierungsbezirk (e.g. Freiburg)
-      * Ladkreis (e.g. Konstanz)
-        *  Stadt (e.g. Singen, Konstanz)
+[ALT](bsp.png)
