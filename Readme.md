@@ -17,4 +17,4 @@
 * Keine bidirektionalen Beziehungen
 
 ## Beispiele
-[ALT](bsp.png)
+![ALT](bsp.png)
